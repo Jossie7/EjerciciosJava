@@ -1,4 +1,4 @@
-package Arrays.ejercicios;
+package Arrays.ejercicios.Tarea45;
 
 import java.util.Arrays;
 
