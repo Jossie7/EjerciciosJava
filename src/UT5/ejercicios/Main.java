@@ -11,7 +11,8 @@ public class Main {
         Persona persona4 = new Persona("Anita",9);
         Persona persona5 = new Persona("Zoila",54);
 
-        TreeSet <Persona> conjuntoPersonas = new TreeSet<>();
+        // Se utiliza treeSet para ordenar de forma natural y no coge elementos nulos.
+        TreeSet <Persona> conjuntoPersonas = new TreeSet<>((new Comparador().reversed()));
         conjuntoPersonas.add(persona1);
         conjuntoPersonas.add(persona2);
         conjuntoPersonas.add(persona3);

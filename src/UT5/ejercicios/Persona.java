@@ -45,10 +45,4 @@ public class Persona implements Comparable{
 
     }
 
-    @Override
-    public boolean equals(Object o) {
-        Persona persona = (Persona) o;
-        return this.nombre.equals(persona.nombre);
-    }
-
 }
