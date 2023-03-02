@@ -1,4 +1,4 @@
-package UT5.ejercicios;
+package UT5.ejercicios.Conjuntos;
 
 public class Persona implements Comparable{
     private String nombre;

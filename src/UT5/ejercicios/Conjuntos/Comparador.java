@@ -1,4 +1,4 @@
-package UT5.ejercicios;
+package UT5.ejercicios.Conjuntos;
 
 import java.util.Comparator;
 

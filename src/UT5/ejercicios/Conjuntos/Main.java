@@ -1,4 +1,7 @@
-package UT5.ejercicios;
+package UT5.ejercicios.Conjuntos;
+
+import UT5.ejercicios.Conjuntos.Comparador;
+import UT5.ejercicios.Conjuntos.Persona;
 
 import java.util.TreeSet;
 
